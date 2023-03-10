@@ -15,3 +15,11 @@ From both the graphs, we see a drop in the number of movies being added from 201
 
 Link to dashboard: https://public.tableau.com/app/profile/rukshar.alam2/viz/Netflix_16778319201670/Dashboard1
 
+
+# Netflix Show Distribution by Country on a Map
+
+In Dashboard 2, named Netflix Map, the distribution of shows by nations is shown. USA leads the nations with the most number of shows on Netflix library. India comes 2nd. However, in Asia alone India has the most shows. In Europe, England produces the greatest number of shows on Netflix. Globally, England is 3rd. This top 3 ranking remains the same when 'movies' is chosen from the 'Type' drop down menu indicating the distribution of Netflix movies produced by the countries.
+
+However, when choosing only TV Shows from the drop down menu, Japan beats India in Asia meaning Japan produces the most TV shows on Netflix in Asia. Globally, Japan is 3rd trailing behind the UK while the USA is still the top producer of TV shows.
+
+Link to dashboard: 
